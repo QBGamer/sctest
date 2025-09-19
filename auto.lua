@@ -205,7 +205,7 @@ getgenv().Config = {
     ["Webhook"] = {
 		["Unit Summoned"] = true,
 		["Stage Finished"] = true,
-		["URL"] = "https://discord.com/api/webhooks/1418519297193410622/INR0a3eJzNHZZapv1B687ehztSWI_JZzgo8aAMARn9mrNqCHwvqUUUZTj5vlqkaX_54Q",
+		["URL"] = "https://discord.com/api/webhooks/1418542517120536647/V1NEYdk68cqWngQbEvLlymbFZm2bqnvQ8N7WRPwT9n0gowAVREt-OIcDa6BZVceu_loW",
 		["Match Restarted"] = true,
 		["Unit Stat Potential"] = true,
 	},
