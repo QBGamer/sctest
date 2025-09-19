@@ -14,7 +14,7 @@ getgenv().Config = {
 		}
 	},
 	["Gold Buyer"] = {
-		["Enable"] = true,
+		["Enable"] = false,
 		["Item"] = {
 			["Brand"] = true,
 			["Magic Pendant"] = true,
