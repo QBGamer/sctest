@@ -41,7 +41,6 @@ getgenv().Config = {
 		["Unit Stat Potential"] = false,
 		["Stage Finished"] = true,
 		["Trait Rerolled"] = false,
-		["URL"] = "https://discord.com/api/webhooks/1418203847561842738/y-ojNsCO7_LWY1xLObUGTq8wNPMkotPchTZbOczl5gLmjvUel_GVVWgTMYF995HJLDJY",
 		["Unit Summoned"] = true,
 		["Stat Potential Rerolled"] = false,
 		["Match Restarted"] = false
